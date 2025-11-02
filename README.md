@@ -23,33 +23,22 @@ Dataset Description
 The dataset used in this project is the Wisconsin Breast Cancer Dataset (from Kaggle), containing 569 samples with 30 numerical features describing cell nucleus properties.
 Each record is labeled as either:
 
-Malignant (1) — Cancerous
+Malignant (1) means Cancerous
 
-Benign (0) — Non-cancerous
+Benign (0) means Non-cancerous
 
-Key features include:
-
-Mean radius
-
-Mean texture
-
-Mean smoothness
-
-Compactness
-
-Symmetry
 
 All features were derived from digital images of breast mass cells.
 
 Libraries Used
 
-NumPy — Numerical computation
+NumPy: Numerical computation
 
-Pandas — Data manipulation and cleaning
+Pandas: Data manipulation and cleaning
 
-Matplotlib & Seaborn — Visualization and correlation analysis
+Matplotlib & Seaborn: Visualization and correlation analysis
 
-Scikit-learn — Model implementation (Logistic Regression, Random Forest, etc.)
+Scikit-learn: Model implementation (Logistic Regression, Random Forest, etc.)
 
 Methodology
 
